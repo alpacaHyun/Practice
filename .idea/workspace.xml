@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Bronze1271.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/Bronze2480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/ExplicitConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/ImplicitConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter6/pg165.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/ArrayListEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/TryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Bronze5522.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/Bronze5522.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GzfQONvgBHg3hm9abyB1U3aCma" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Bronze5522">
+    <configuration name="Aclkds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Aclkds" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.ArrayListEx" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bronze1271" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Bronze1271" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bronze5522" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Bronze5522" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.TryCatch" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bronze5522" />
+        <item itemvalue="Application.Aclkds" />
+        <item itemvalue="Application.TryCatch" />
+        <item itemvalue="Application.ArrayListEx" />
+        <item itemvalue="Application.Bronze1271" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="" />
+      <created>1667396315616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667396315616</updated>
+      <workItem from="1667396316735" duration="3604000" />
+      <workItem from="1667453770092" duration="5536000" />
+      <workItem from="1667460087041" duration="1260000" />
+      <workItem from="1667474635688" duration="1824000" />
+      <workItem from="1667522286651" duration="383000" />
+      <workItem from="1667522736116" duration="1806000" />
+      <workItem from="1667524795803" duration="1084000" />
+      <workItem from="1667526074989" duration="833000" />
+      <workItem from="1667536222709" duration="313000" />
+      <workItem from="1667539691052" duration="1000" />
+      <workItem from="1667545119762" duration="38000" />
+      <workItem from="1667551555313" duration="1159000" />
+      <workItem from="1667571316978" duration="135000" />
+      <workItem from="1667703800250" duration="1837000" />
+    </task>
+    <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
+      <created>1667705529770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667705529770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="type : feat 백준 문제풀이&#10;&#10;body : Bronze5" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat 백준 문제풀이&#10;&#10;body : Bronze5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/TryCatch.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/TryCatch.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

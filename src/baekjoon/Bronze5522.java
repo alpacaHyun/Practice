@@ -9,16 +9,17 @@ JOI군의 각 게임의 득점을 나타내는 정수가 주어졌을 때, JOI�
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Scanner;
 
 public class Bronze5522 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
+        Scanner sc = new Scanner(System.in);
         int result = 0;
 
         for (int i = 0; i < 6; i++) {
-            result += Integer.parseInt(br.readLine());
+            result += sc.nextInt();
         }
 
         System.out.println(result);
