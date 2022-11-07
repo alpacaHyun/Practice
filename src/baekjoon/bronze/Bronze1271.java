@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.bronze;
 
 import java.io.*;
 import java.math.BigInteger;
