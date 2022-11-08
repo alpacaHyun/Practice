@@ -1,4 +1,4 @@
-package practice.silverPark;
+package practice.silverPark.Chapter5.classpart;
 
 public class ImplicitConversion { // 묵시적 형변환
     public static void main(String []args){

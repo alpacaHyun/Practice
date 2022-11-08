@@ -1,4 +1,4 @@
-package practice.silverPark;
+package practice.silverPark.Chapter5.classpart;
 
 public class ExplicitConversion {
     public static void main(String[] args) {
