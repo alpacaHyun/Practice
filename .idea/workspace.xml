@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : &#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/bronze/Bronze5524.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/Chapter5/classpart/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/Chapter5/classpart/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/Chapter5/classpart/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/ExplicitConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/Chapter5/classpart/ExplicitConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/ImplicitConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/Chapter5/classpart/ImplicitConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/bronze/Bronze5524.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/bronze/Bronze5524.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/CopyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/copyobject/CopyObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +40,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Bronze5524">
-    <configuration name="Bronze2083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.Bronze2083" />
+  <component name="RunManager" selected="Application.CopyObject">
+    <configuration name="Bronze5524" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.Bronze5524" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
@@ -58,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bronze5524" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.Bronze5524" />
+    <configuration name="CopyObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.copyobject.CopyObject" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.bronze.*" />
+          <option name="PATTERN" value="study.copyobject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyObject" />
         <item itemvalue="Application.Bronze5524" />
         <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.Function" />
         <item itemvalue="Application.Lotto" />
-        <item itemvalue="Application.Bronze2083" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +144,7 @@
       <workItem from="1667826173952" duration="7312000" />
       <workItem from="1667874578423" duration="611000" />
       <workItem from="1667890346497" duration="5000" />
+      <workItem from="1667914230591" duration="2603000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -177,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667824420041</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="type : &#10;&#10;body :">
+      <created>1667914259284</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667914259284</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
