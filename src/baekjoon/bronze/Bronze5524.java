@@ -16,14 +16,14 @@ public class Bronze5524 {
         int a = 3;
         int b = 4;
 
-        for(int i = 0; i < inputSplit.length; i++){
-            if (inputSplit[i].contains(b)) {
-                break;
-            } else {
-                inputSplit[i].toLowerCase();
-                System.out.print(inputSplit[i]);
-            }
-        }
+//        for(int i = 0; i < inputSplit.length; i++){
+//            if (inputSplit[i].contains(b)) {
+//                break;
+//            } else {
+//                inputSplit[i].toLowerCase();
+//                System.out.print(inputSplit[i]);
+//            }
+//        }
 
 
 
