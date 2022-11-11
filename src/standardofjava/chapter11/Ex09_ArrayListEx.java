@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.*;
 
 public class Ex09_ArrayListEx {
-    public void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {
         ArrayList list1 = new ArrayList(10);
         list1.add(new Integer(5));  // new Integer 은 생략 가능
         list1.add(4);
@@ -32,16 +32,17 @@ public class Ex09_ArrayListEx {
 
         // list1에서 list2와 겹치는 부분 말고는 다 삭제한다.
         System.out.println("list1.retainAll(list2) :" + list1.retainAll(list2));
-        System.out.println(list1);
+        print(list1, list2);
 
         // list2에서 list1에 포함된 객체들을 삭제한다.
         for(int i = list2.size() -1 ; i >= 0; i--){
-            if(list1.contains(list2.get(i)));
-            list2.remove(i);
+            if(list1.contains(list2.get(i))) {
+                list2.remove(i);
+            }
         }
         print(list1, list2);
     }
-    public void print(ArrayList list1, ArrayList list2){
+    public static void print(ArrayList list1, ArrayList list2){
         System.out.println("list1 : "+ list1);
         System.out.println("list2 : "+ list2);
         System.out.println();
