@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat&#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/practice/wootech/secondweek/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/wootech/secondweek/Calculator.java" afterDir="false" />
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat &#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/bronze/Bronze2588.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/bronze/Ex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex09_ArrayListEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex09_ArrayListEx.java" afterDir="false" />
     </list>
@@ -41,9 +41,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Application">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.wootech.secondweek.Application" />
+  <component name="RunManager" selected="Application.Bronze2588">
+    <configuration name="Bronze1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.Bronze1085" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bronze1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.Bronze1085" />
+    <configuration name="Bronze2588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.Bronze2588" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.wootech.secondweek.*" />
+          <option name="PATTERN" value="baekjoon.bronze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,8 +109,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bronze1085" />
+        <item itemvalue="Application.Bronze2588" />
         <item itemvalue="Application.Ex09_ArrayListEx" />
+        <item itemvalue="Application.Bronze1085" />
         <item itemvalue="Application.CopyObject" />
         <item itemvalue="Application.Bronze5524" />
       </list>
@@ -156,6 +157,11 @@
       <workItem from="1668040317378" duration="3763000" />
       <workItem from="1668064864196" duration="1000" />
       <workItem from="1668065169968" duration="382000" />
+      <workItem from="1668065917941" duration="46000" />
+      <workItem from="1668065971694" duration="825000" />
+      <workItem from="1668068186293" duration="5000" />
+      <workItem from="1668093120367" duration="58000" />
+      <workItem from="1668125133882" duration="2326000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -220,7 +226,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668037305626</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="type : feat 자바의 정석 예제&#10;&#10;body :">
+      <created>1668065933329</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668065933329</updated>
+    </task>
+    <task id="LOCAL-00011" summary="type : feat &#10;&#10;body :">
+      <created>1668065977675</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668065977675</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +266,9 @@
     <MESSAGE value="type : feat 브론즈 3&#10;&#10;body :" />
     <MESSAGE value="type : feat 자바의 정석&#10;&#10;body :" />
     <MESSAGE value="type : feat&#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : feat&#10;&#10;body :" />
+    <MESSAGE value="type : feat 자바의 정석 예제&#10;&#10;body :" />
+    <MESSAGE value="type : feat &#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat &#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -260,6 +282,16 @@
           <url>file://$PROJECT_DIR$/src/study/TryCatch.java</url>
           <line>6</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/standardofjava/chapter11/Ex09_ArrayListEx.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/standardofjava/chapter11/Ex09_ArrayListEx.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/practice/silverPark/Chapter5/classpart/StudentTest.java</url>
