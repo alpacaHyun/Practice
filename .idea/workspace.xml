@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat &#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/bronze/Bronze2588.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/bronze/Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/wootech/thridweek/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/wootech/thridweek/Lotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter14/Stream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex09_ArrayListEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex09_ArrayListEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,22 +32,23 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Application.Bronze2588">
-    <configuration name="Bronze1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.Bronze1085" />
+}]]></component>
+  <component name="RunManager" selected="Application.Stream">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.wootech.thridweek.Application" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.wootech.secondweek.*" />
+          <option name="PATTERN" value="practice.wootech.thridweek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,32 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bronze5524" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.Bronze5524" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.wootech.secondweek.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CopyObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.copyobject.CopyObject" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.copyobject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Ex09_ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="standardofjava.chapter11.Ex09_ArrayListEx" />
       <module name="Practie" />
@@ -107,13 +82,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.wootech.thridweek.Lotto" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.wootech.thridweek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter14.Stream" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="standardofjava.chapter14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bronze2588" />
+        <item itemvalue="Application.Stream" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Lotto" />
         <item itemvalue="Application.Ex09_ArrayListEx" />
-        <item itemvalue="Application.Bronze1085" />
-        <item itemvalue="Application.CopyObject" />
-        <item itemvalue="Application.Bronze5524" />
+        <item itemvalue="Application.Bronze2588" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +162,13 @@
       <workItem from="1668065971694" duration="825000" />
       <workItem from="1668068186293" duration="5000" />
       <workItem from="1668093120367" duration="58000" />
-      <workItem from="1668125133882" duration="2326000" />
+      <workItem from="1668125133882" duration="2523000" />
+      <workItem from="1668134815681" duration="39000" />
+      <workItem from="1668167179872" duration="170000" />
+      <workItem from="1668169071908" duration="144000" />
+      <workItem from="1668169264332" duration="4010000" />
+      <workItem from="1668179220158" duration="2085000" />
+      <workItem from="1668235176819" duration="248000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -240,7 +247,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668065977675</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="type : feat 브론즈3 &#10;&#10;body :">
+      <created>1668128102683</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668128102683</updated>
+    </task>
+    <task id="LOCAL-00013" summary="type : feat &#10;&#10;body :">
+      <created>1668128124099</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668128124099</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +288,8 @@
     <MESSAGE value="type : feat 자바의 정석&#10;&#10;body :" />
     <MESSAGE value="type : feat&#10;&#10;body :" />
     <MESSAGE value="type : feat 자바의 정석 예제&#10;&#10;body :" />
+    <MESSAGE value="type : feat 브론즈3 &#10;&#10;body :" />
+    <MESSAGE value="type : feat 브&#10;&#10;body :" />
     <MESSAGE value="type : feat &#10;&#10;body :" />
     <option name="LAST_COMMIT_MESSAGE" value="type : feat &#10;&#10;body :" />
   </component>
@@ -292,6 +315,36 @@
           <url>file://$PROJECT_DIR$/src/standardofjava/chapter11/Ex09_ArrayListEx.java</url>
           <line>33</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/baekjoon/bronze/Bronze2588.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/baekjoon/bronze/Bronze2588.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/baekjoon/bronze/Bronze2588.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/baekjoon/bronze/Bronze2588.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/wootech/thridweek/Application.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/wootech/thridweek/Lotto.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/practice/silverPark/Chapter5/classpart/StudentTest.java</url>
