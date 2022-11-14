@@ -7,7 +7,7 @@ public class Customer {
     private static final String VIP = "VIP";
 
     protected int customerID;
-    protected String customerNmae;
+    protected String customerName;
     protected String customerGrade;
     int bonusPoint;  // private 이어도 생성이 된다. (접근이 안되는 것)
     protected double bonusRatio;
@@ -18,9 +18,9 @@ public class Customer {
 //        bonusRatio = 0.01;
 //    }
 
-    public Customer(int customerID, String customerNmae){
+    public Customer(int customerID, String customerName){
         this.customerID = customerID;
-        this.customerNmae = customerNmae;
+        this.customerName = customerName;
         customerGrade = "SILVER";
         bonusRatio = 0.01;
 
@@ -36,7 +36,7 @@ public class Customer {
     }
 
     public String showCustomerInfo() {
-        return customerNmae + "님의 등급은 " + customerGrade + "이며, 보너스 포인트는 " + bonusPoint + "입니다.";
+        return customerName + "님의 등급은 " + customerGrade + "이며, 보너스 포인트는 " + bonusPoint + "입니다.";
     }
 
     public int getCustomerID() {
@@ -48,7 +48,7 @@ public class Customer {
     }
 
     public void setCustomerName(String customerName){
-        this.customerNmae = customerName;
+        this.customerName = customerName;
     }
 
     public String getCustomerGrade(){

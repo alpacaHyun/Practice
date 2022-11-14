@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat 브론즈 3 문제풀이&#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customer/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customer/VIPCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customertest/CutomerTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat 상속 &#10;&#10;body :" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +172,7 @@
       <workItem from="1668332510555" duration="1939000" />
       <workItem from="1668380577270" duration="1473000" />
       <workItem from="1668403356930" duration="1923000" />
-      <workItem from="1668405393901" duration="4635000" />
+      <workItem from="1668405393901" duration="4921000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -326,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668405335673</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="type : feat 상속 &#10;&#10;body :">
+      <created>1668411863879</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1668411863879</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,7 +362,8 @@
     <MESSAGE value="type : feat 상속과 코드 재사용의 차이 설명 &#10;&#10;body :" />
     <MESSAGE value="type : feat&#10;&#10;body :" />
     <MESSAGE value="type : feat 브론즈 3 문제풀이&#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : feat 브론즈 3 문제풀이&#10;&#10;body :" />
+    <MESSAGE value="type : feat 상속 &#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat 상속 &#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
