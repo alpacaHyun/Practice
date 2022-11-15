@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat 상속 &#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/bronze/Bronze2441.java" afterDir="false" />
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat 브론즈3 별찍기&#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customertest/OverridingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customer/VIPCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customer/VIPCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customertest/CutomerTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customertest/CutomerTest1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Bronze2441">
+  <component name="RunManager" selected="Application.OverridingTest">
     <configuration name="Bronze2441" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.bronze.Bronze2441" />
       <module name="Practie" />
@@ -96,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter14.Stream" />
+    <configuration name="OverridingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter8.inheritance.customertest.OverridingTest" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="standardofjava.chapter14.*" />
+          <option name="PATTERN" value="practice.silverPark.chapter8.inheritance.customertest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bronze2441" />
+        <item itemvalue="Application.OverridingTest" />
         <item itemvalue="Application.CutomerTest1" />
+        <item itemvalue="Application.Bronze2441" />
         <item itemvalue="Application.Bronze2490" />
         <item itemvalue="Application.EX17_StackQueue" />
-        <item itemvalue="Application.Stream" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +182,10 @@
       <workItem from="1668412743544" duration="64000" />
       <workItem from="1668412916879" duration="605000" />
       <workItem from="1668413887142" duration="2510000" />
-      <workItem from="1668468789748" duration="372000" />
+      <workItem from="1668468789748" duration="636000" />
+      <workItem from="1668478659835" duration="1000" />
+      <workItem from="1668479198836" duration="907000" />
+      <workItem from="1668494974699" duration="1864000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -342,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668412793527</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="type : feat 브론즈3 별찍기&#10;&#10;body :">
+      <created>1668469412533</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1668469412533</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +390,8 @@
     <MESSAGE value="type : feat&#10;&#10;body :" />
     <MESSAGE value="type : feat 브론즈 3 문제풀이&#10;&#10;body :" />
     <MESSAGE value="type : feat 상속 &#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : feat 상속 &#10;&#10;body :" />
+    <MESSAGE value="type : feat 브론즈3 별찍기&#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat 브론즈3 별찍기&#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -453,7 +467,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customer/Customer.java</url>
-          <line>20</line>
+          <line>21</line>
           <properties class="practice.silverPark.chapter8.inheritance.customer.Customer" method="&lt;init&gt;">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

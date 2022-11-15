@@ -6,6 +6,7 @@ public class Customer {
     private static final String GOLD = "GOLD";
     private static final String VIP = "VIP";
 
+    protected int price;
     protected int customerID;
     protected String customerName;
     protected String customerGrade;

@@ -8,7 +8,7 @@ public class CutomerTest1 {
 
         Customer customerLee = new Customer(10100, "Lee");
 
-        Customer customerKim = new VIPCustomer(10101, "Kim");
+        Customer customerKim = new VIPCustomer(10101, "Kim", 100);
         // VIPCustomer 지만 Customer 로 생성함
 //        System.out.println(customerLee.showCustomerInfo());
         System.out.println(customerKim.showCustomerInfo());
