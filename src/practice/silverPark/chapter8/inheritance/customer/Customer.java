@@ -13,11 +13,11 @@ public class Customer {
     int bonusPoint;  // private 이어도 생성이 된다. (접근이 안되는 것)
     protected double bonusRatio;
 
-//    public Customer() {
-//        super(); // 모든 클래스의 최상위 클래스인 Object를 상속받았기 때문에 자동으로 들어감
-//        customerGrade = SILVER;
-//        bonusRatio = 0.01;
-//    }
+    public Customer() {
+        super(); // 모든 클래스의 최상위 클래스인 Object를 상속받았기 때문에 자동으로 들어감
+        customerGrade = SILVER;
+        bonusRatio = 0.01;
+    }
 
     public Customer(int customerID, String customerName){
         this.customerID = customerID;
