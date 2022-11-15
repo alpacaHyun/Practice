@@ -1,4 +1,4 @@
-package practice.silverPark.chapter8.inheritance.customer;
+package practice.silverPark.chapter8.witharraylist;
 
 public class Customer {
 
