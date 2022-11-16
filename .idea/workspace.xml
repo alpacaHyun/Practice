@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat 자바의 정석 super&#10;&#10;body :" />
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat 자바의 정석 static import&#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter7/inheritance/Ex7_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,6 +196,8 @@
       <workItem from="1668577469611" duration="48000" />
       <workItem from="1668580689553" duration="1520000" />
       <workItem from="1668586159538" duration="1783000" />
+      <workItem from="1668588868867" duration="716000" />
+      <workItem from="1668638712924" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -418,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668587419016</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="type : feat 자바의 정석 static import&#10;&#10;body :">
+      <created>1668588968766</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1668588968766</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,7 +448,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="type : feat 백준 문제풀이&#10;&#10;body : Bronze5" />
     <MESSAGE value="type : feat &#10;&#10;body : Bronze5" />
     <MESSAGE value="type : feat 브론즈4&#10;&#10;body :" />
     <MESSAGE value="type : &#10;&#10;body :" />
@@ -461,7 +472,8 @@
     <MESSAGE value="type : feat Silver 강의&#10;&#10;body :" />
     <MESSAGE value="type : feat 자바의 정석 상속&#10;&#10;body :" />
     <MESSAGE value="type : feat 자바의 정석 super&#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : feat 자바의 정석 super&#10;&#10;body :" />
+    <MESSAGE value="type : feat 자바의 정석 static import&#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat 자바의 정석 static import&#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
