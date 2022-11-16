@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat Silver 강의&#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter7/inheritance/Ex7_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat 자바의 정석 상속&#10;&#10;body :" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +45,7 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex7_1">
+  <component name="RunManager" selected="Application.Ex7_2">
     <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter8.inheritance.animal.AnimalTest" />
       <module name="Practie" />
@@ -75,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CutomerTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter8.inheritance.customertest.CutomerTest1" />
+    <configuration name="Ex7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter7.inheritance.Ex7_1" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.silverPark.chapter8.inheritance.customertest.*" />
+          <option name="PATTERN" value="standardofjava.chapter7.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter7.inheritance.Ex7_1" />
+    <configuration name="Ex7_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter7.inheritance.Ex7_2" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex7_2" />
         <item itemvalue="Application.Ex7_1" />
         <item itemvalue="Application.Bronze2455" />
         <item itemvalue="Application.AnimalTest" />
         <item itemvalue="Application.OverridingTest" />
-        <item itemvalue="Application.CutomerTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +191,7 @@
       <workItem from="1668555154090" duration="1496000" />
       <workItem from="1668576744574" duration="245000" />
       <workItem from="1668577469611" duration="48000" />
-      <workItem from="1668580689553" duration="909000" />
+      <workItem from="1668580689553" duration="1520000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -399,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668556649529</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="type : feat 자바의 정석 상속&#10;&#10;body :">
+      <created>1668581612322</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1668581612322</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,7 +444,8 @@
     <MESSAGE value="type : feat 상속&#10;&#10;body :" />
     <MESSAGE value="type : feat 브론즈3 지능형 기차&#10;&#10;body :" />
     <MESSAGE value="type : feat Silver 강의&#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : feat Silver 강의&#10;&#10;body :" />
+    <MESSAGE value="type : feat 자바의 정석 상속&#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat 자바의 정석 상속&#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
