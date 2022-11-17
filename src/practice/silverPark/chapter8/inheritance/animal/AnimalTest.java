@@ -21,10 +21,27 @@ public class AnimalTest {
 //        animals.add(new Eagle());
 
     }
-    public void moveAnimal(Animal animal){
+
+    public void moveAnimal(Animal animal) {
         animal.move();
         //코드는 한줄인데 이 코드 한줄에 대한 결과는 다양하다 -> 이것이 다형성 (polymorphism)
 
         // instanceOf -> 다운캐스팅 하는 키워드
+//        Human human = (Human)animal;
+//        human.readBook();                 // 이렇게 하면 여기서부터 에러 발생
+
+        if (animal instanceof Human) {
+            Human human = (Human) animal;
+            human.readBook();
+        } else if (animal instanceof Tiger) {
+            Tiger tiger = (Tiger) animal;
+            tiger.hunting();
+        } else if (animal instanceof Eagle) {
+            Eagle eagle = (Eagle) animal;
+            eagle.flying();
+        } else {
+            System.out.println("지원되지 않는 기능입니다.");
+        }
+
     }
 }

@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat 자바의 정석 매개변수의 다형성 예제&#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter7/inheritance/Ex7_10.java" afterDir="false" />
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat 추상 클래스 작성 예제&#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/witharraylist/CustomerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/witharraylist/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/witharraylist/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/witharraylist/GoldCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/witharraylist/GoldCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/witharraylist/VIPCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/witharraylist/VIPCustomer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,35 +55,35 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex7_10">
+  <component name="RunManager" selected="Application.AnimalTest">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter8.inheritance.animal.AnimalTest" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.silverPark.chapter8.inheritance.animal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter8.witharraylist.CustomerTest" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.silverPark.chapter8.witharraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex7_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="standardofjava.chapter7.inheritance.Ex7_10" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="standardofjava.chapter7.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex7_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter7.inheritance.Ex7_3" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="standardofjava.chapter7.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex7_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter7.inheritance.Ex7_4" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalTest" />
+        <item itemvalue="Application.CustomerTest" />
         <item itemvalue="Application.Ex7_10" />
         <item itemvalue="Application.Ex7_8" />
         <item itemvalue="Application.Ex7_6" />
-        <item itemvalue="Application.Ex7_4" />
-        <item itemvalue="Application.Ex7_3" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +206,8 @@
       <workItem from="1668588868867" duration="716000" />
       <workItem from="1668638712924" duration="488000" />
       <workItem from="1668640011702" duration="1034000" />
-      <workItem from="1668649775339" duration="886000" />
+      <workItem from="1668649775339" duration="2126000" />
+      <workItem from="1668668184608" duration="3532000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -446,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668649752127</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="type : feat 추상 클래스 작성 예제&#10;&#10;body :">
+      <created>1668658732184</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1668658732184</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="type : &#10;&#10;body :" />
     <MESSAGE value="type : feat 깊은 복사 , 얕은 복사 &#10;&#10;body :" />
     <MESSAGE value="type : feat 브론즈 3&#10;&#10;body :" />
     <MESSAGE value="type : feat 자바의 정석&#10;&#10;body :" />
@@ -489,7 +503,8 @@
     <MESSAGE value="type : feat 자바의 정석 static import&#10;&#10;body :" />
     <MESSAGE value="type : feat 자바의 정석 참조변수 형변환&#10;&#10;body :" />
     <MESSAGE value="type : feat 자바의 정석 매개변수의 다형성 예제&#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : feat 자바의 정석 매개변수의 다형성 예제&#10;&#10;body :" />
+    <MESSAGE value="type : feat 추상 클래스 작성 예제&#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat 추상 클래스 작성 예제&#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
