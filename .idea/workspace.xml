@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat silver 강의&#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/abstracktex/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/abstracktex/ComputerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/abstracktex/Desktop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/abstracktex/MyNoteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/abstracktex/NoteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/template/AICar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/template/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/template/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/template/ManualCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +51,26 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalTest">
+  <component name="RunManager" selected="Application.CarTest">
     <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter8.inheritance.animal.AnimalTest" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="practice.silverPark.chapter8.inheritance.animal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter9.template.CarTest" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.silverPark.chapter9.template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter7.inheritance.Ex7_6" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="standardofjava.chapter7.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Ex7_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="standardofjava.chapter7.inheritance.Ex7_8" />
       <module name="Practie" />
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.AnimalTest" />
         <item itemvalue="Application.CustomerTest" />
         <item itemvalue="Application.Ex7_10" />
         <item itemvalue="Application.Ex7_8" />
-        <item itemvalue="Application.Ex7_6" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +206,7 @@
       <workItem from="1668668184608" duration="3585000" />
       <workItem from="1668674983257" duration="1123000" />
       <workItem from="1668685200873" duration="505000" />
-      <workItem from="1668686079140" duration="1224000" />
+      <workItem from="1668686079140" duration="2991000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -468,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668674942794</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="type : feat silver 강의&#10;&#10;body :">
+      <created>1668688877858</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1668688877858</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
