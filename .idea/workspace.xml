@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat silver 강의&#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/bookshelf/BookShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/bookshelf/BookShelfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/bookshelf/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/bookshelf/Shelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/Buy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/CompleteCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/Sell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/inherintanceextendsex/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/inherintanceextendsex/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/inherintanceextendsex/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/inherintanceextendsex/Y.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/scheduler/LeastJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/scheduler/PriorityAllocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/scheduler/RoundRobin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/scheduler/Scheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter10/scheduler/SchedulerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/gamelevel/AdvancedLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/gamelevel/BeginnerLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/gamelevel/MainBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/gamelevel/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/gamelevel/PlayerLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter9/gamelevel/SuperLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/wootech/fourthweek/Reflect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +50,20 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BookShelfTest">
+  <component name="RunManager" selected="Application.Reflect">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter8.inheritance.animal.AnimalTest" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.silverPark.chapter8.inheritance.animal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BookShelfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter10.bookshelf.BookShelfTest" />
       <module name="Practie" />
@@ -115,25 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter9.gamelevel.MainBoard" />
+    <configuration name="Reflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.wootech.fourthweek.Reflect" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.silverPark.chapter9.gamelevel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SchedulerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter10.scheduler.SchedulerTest" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.silverPark.chapter10.scheduler.*" />
+          <option name="PATTERN" value="practice.wootech.fourthweek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reflect" />
+        <item itemvalue="Application.AnimalTest" />
         <item itemvalue="Application.BookShelfTest" />
         <item itemvalue="Application.CustomerTest" />
         <item itemvalue="Application.CalculatorTest" />
-        <item itemvalue="Application.SchedulerTest" />
-        <item itemvalue="Application.MainBoard" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +210,12 @@
       <workItem from="1668700429318" duration="10000" />
       <workItem from="1668700449360" duration="1660000" />
       <workItem from="1668732122515" duration="4725000" />
+      <workItem from="1668746615139" duration="15000" />
+      <workItem from="1668748636931" duration="1103000" />
+      <workItem from="1668838980280" duration="306000" />
+      <workItem from="1668839313416" duration="586000" />
+      <workItem from="1668840833282" duration="607000" />
+      <workItem from="1668951882903" duration="856000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -509,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668696398989</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="type : feat silver 강의&#10;&#10;body :">
+      <created>1668746623511</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1668746623511</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,6 +604,31 @@
           <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customertest/CutomerTest1.java</url>
           <line>13</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter5/classpart/StudentTest.java</url>

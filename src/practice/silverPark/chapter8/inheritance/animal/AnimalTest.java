@@ -26,9 +26,6 @@ public class AnimalTest {
         animal.move();
         //코드는 한줄인데 이 코드 한줄에 대한 결과는 다양하다 -> 이것이 다형성 (polymorphism)
 
-        // instanceOf -> 다운캐스팅 하는 키워드
-//        Human human = (Human)animal;
-//        human.readBook();                 // 이렇게 하면 여기서부터 에러 발생
 
         if (animal instanceof Human) {
             Human human = (Human) animal;
