@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat reflect&#10;&#10;body :">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat &#10;&#10;body :" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +217,7 @@
       <workItem from="1668951882903" duration="1066000" />
       <workItem from="1669007740386" duration="332000" />
       <workItem from="1669114857125" duration="20000" />
-      <workItem from="1669121253106" duration="64000" />
+      <workItem from="1669121253106" duration="390000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -508,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668954847231</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="type : feat &#10;&#10;body :">
+      <created>1669121342354</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1669121342354</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +535,6 @@
     <MESSAGE value="type : feat 자바의 정석 예제&#10;&#10;body :" />
     <MESSAGE value="type : feat 브론즈3 &#10;&#10;body :" />
     <MESSAGE value="type : feat 브&#10;&#10;body :" />
-    <MESSAGE value="type : feat &#10;&#10;body :" />
     <MESSAGE value="type : feat ..&#10;&#10;body :" />
     <MESSAGE value="type : feat Stack, Queue example&#10;&#10;body :" />
     <MESSAGE value="type : feat 상속과 코드 재사용의 차이 설명 &#10;&#10;body :" />
@@ -551,7 +555,8 @@
     <MESSAGE value="type : feat 추상 클래스 작성 예제&#10;&#10;body :" />
     <MESSAGE value="type : feat silver 강의&#10;&#10;body :" />
     <MESSAGE value="type : feat reflect&#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : feat reflect&#10;&#10;body :" />
+    <MESSAGE value="type : feat &#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : feat &#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
