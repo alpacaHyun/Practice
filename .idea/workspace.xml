@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : silver 강의 &#10;&#10;body :">
-      <change beforePath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/arraylist/MemberArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/arraylist/MemberArrayList.java" afterDir="false" />
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : silver 강의 Iterator&#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/hashset/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/hashset/MemberHashSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/hashset/MemberHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/hashset/MemberHashSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +56,39 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MemberArrayListTest">
+  <component name="RunManager" selected="Application.MemberHashSetTest">
+    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.hashset.HashSetTest" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.hashset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MemberArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.arraylist.MemberArrayListTest" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberHashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.hashset.MemberHashSetTest" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,39 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.arraylist.StackTest" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.arraylist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.arraylist.StackTest" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.arraylist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MemberHashSetTest" />
+        <item itemvalue="Application.HashSetTest" />
         <item itemvalue="Application.MemberArrayListTest" />
         <item itemvalue="Application.QueueTest (1)" />
         <item itemvalue="Application.QueueTest" />
-        <item itemvalue="Application.StackTest" />
-        <item itemvalue="Application.StackTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +230,7 @@
       <workItem from="1669176653130" duration="3337000" />
       <workItem from="1669191405180" duration="4409000" />
       <workItem from="1669196661453" duration="4000" />
-      <workItem from="1669215769561" duration="1534000" />
+      <workItem from="1669215769561" duration="2872000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -543,7 +547,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669217188742</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="type : silver 강의 Iterator&#10;&#10;body :">
+      <created>1669217328842</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1669217328842</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +572,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="type : feat 브론즈3 &#10;&#10;body :" />
     <MESSAGE value="type : feat 브&#10;&#10;body :" />
     <MESSAGE value="type : feat ..&#10;&#10;body :" />
     <MESSAGE value="type : feat Stack, Queue example&#10;&#10;body :" />
@@ -586,7 +596,8 @@
     <MESSAGE value="type : feat &#10;&#10;body :" />
     <MESSAGE value="type : refactor&#10;&#10;body :" />
     <MESSAGE value="type : silver 강의 &#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : silver 강의 &#10;&#10;body :" />
+    <MESSAGE value="type : silver 강의 Iterator&#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : silver 강의 Iterator&#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
