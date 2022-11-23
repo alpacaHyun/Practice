@@ -4,7 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat &#10;&#10;body :" />
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : feat &#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/generics/general/Plastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/generics/general/Powder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/generics/general/ThreeDPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/generics/general/ThreeDPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/generics/usegenerics/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/generics/usegenerics/Plastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/generics/usegenerics/Powder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/generics/usegenerics/ThreeDPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/generics/usegenerics/ThreeDPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/generics/usegenerics/Water.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/bookshelf/BookShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/bookshelf/BookShelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/bookshelf/BookShelfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/bookshelf/BookShelfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/bookshelf/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/bookshelf/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/bookshelf/Shelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/bookshelf/Shelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/Buy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/interfaceex/Buy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/interfaceex/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/interfaceex/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/interfaceex/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/CompleteCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/interfaceex/CompleteCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/interfaceex/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/interfaceex/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/Sell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/interfaceex/Sell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/inherintanceextendsex/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/interfaceex/inherintanceextendsex/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/inherintanceextendsex/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/interfaceex/inherintanceextendsex/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/inherintanceextendsex/X.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/interfaceex/inherintanceextendsex/X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/interfaceex/inherintanceextendsex/Y.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/interfaceex/inherintanceextendsex/Y.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/scheduler/LeastJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/scheduler/LeastJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/scheduler/PriorityAllocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/scheduler/PriorityAllocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/scheduler/RoundRobin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/scheduler/RoundRobin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/scheduler/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/scheduler/Scheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter10/scheduler/SchedulerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter10/scheduler/SchedulerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter11/basicclass/BasicClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter11/basicclass/BasicClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter5/classpart/ExplicitConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter5/classpart/ExplicitConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter5/classpart/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter5/classpart/Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter5/classpart/ImplicitConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter5/classpart/ImplicitConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter5/classpart/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter5/classpart/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter5/classpart/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter5/classpart/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/animal/AnimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/animal/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/animal/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/animal/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customer/GOLDCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/customer/GOLDCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customer/VIPCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/customer/VIPCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customertest/CutomerTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/customertest/CutomerTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customertest/OverridingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/customertest/OverridingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/witharraylist/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/witharraylist/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/witharraylist/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/witharraylist/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/witharraylist/GoldCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/witharraylist/GoldCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter8/witharraylist/VIPCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter8/witharraylist/VIPCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/abstracktex/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/abstracktex/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/abstracktex/ComputerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/abstracktex/ComputerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/abstracktex/Desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/abstracktex/Desktop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/abstracktex/MyNoteBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/abstracktex/MyNoteBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/abstracktex/NoteBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/abstracktex/NoteBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/gamelevel/AdvancedLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/gamelevel/AdvancedLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/gamelevel/BeginnerLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/gamelevel/BeginnerLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/gamelevel/MainBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/gamelevel/MainBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/gamelevel/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/gamelevel/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/gamelevel/PlayerLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/gamelevel/PlayerLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/gamelevel/SuperLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/gamelevel/SuperLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/template/AICar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/template/AICar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/template/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/template/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/template/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/template/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/silverPark/chapter9/template/ManualCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter9/template/ManualCar.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,31 +101,32 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="inflearn.silverPark.chapter12.generics.usegenerics" />
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Reflect">
+  <component name="RunManager" selected="Application.ThreeDPrinterTest">
     <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter8.inheritance.animal.AnimalTest" />
+      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter8.inheritance.animal.AnimalTest" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.silverPark.chapter8.inheritance.animal.*" />
+          <option name="PATTERN" value="inflearn.silverPark.chapter8.inheritance.animal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,24 +135,11 @@
       </method>
     </configuration>
     <configuration name="BookShelfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter10.bookshelf.BookShelfTest" />
+      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter10.bookshelf.BookShelfTest" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.silverPark.chapter10.bookshelf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter10.interfaceex.CalculatorTest" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.silverPark.chapter10.interfaceex.*" />
+          <option name="PATTERN" value="inflearn.silverPark.chapter10.bookshelf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +148,11 @@
       </method>
     </configuration>
     <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.silverPark.chapter10.interfaceex.CustomerTest" />
+      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter10.interfaceex.CustomerTest" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.silverPark.chapter10.interfaceex.*" />
+          <option name="PATTERN" value="inflearn.silverPark.chapter10.interfaceex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,13 +173,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreeDPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.generics.usegenerics.ThreeDPrinterTest" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inflearn.silverPark.chapter12.generics.usegenerics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeDPrinterTest" />
         <item itemvalue="Application.Reflect" />
         <item itemvalue="Application.AnimalTest" />
         <item itemvalue="Application.BookShelfTest" />
         <item itemvalue="Application.CustomerTest" />
-        <item itemvalue="Application.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +289,9 @@
       <workItem from="1669007740386" duration="332000" />
       <workItem from="1669114857125" duration="20000" />
       <workItem from="1669121253106" duration="390000" />
+      <workItem from="1669121648269" duration="28000" />
+      <workItem from="1669125191908" duration="3534000" />
+      <workItem from="1669176653130" duration="845000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -513,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669121342354</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="type : feat &#10;&#10;body :">
+      <created>1669121668100</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1669121668100</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,48 +698,48 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customertest/CutomerTest1.java</url>
+          <url>file://$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/customertest/CutomerTest1.java</url>
           <line>13</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
+          <url>file://$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
           <line>30</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
+          <url>file://$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
           <line>29</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
+          <url>file://$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
           <line>32</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
+          <url>file://$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
           <line>35</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
+          <url>file://$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/animal/AnimalTest.java</url>
           <line>38</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter5/classpart/StudentTest.java</url>
+          <url>file://$PROJECT_DIR$/src/inflearn/silverPark/chapter5/classpart/StudentTest.java</url>
           <line>3</line>
-          <properties class="practice.silverPark.chapter5.classpart.StudentTest" method="main">
+          <properties class="practice.silverPark.chapter5.classpart.StudentTest">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/practice/silverPark/chapter8/inheritance/customer/Customer.java</url>
+          <url>file://$PROJECT_DIR$/src/inflearn/silverPark/chapter8/inheritance/customer/Customer.java</url>
           <line>21</line>
-          <properties class="practice.silverPark.chapter8.inheritance.customer.Customer" method="&lt;init&gt;">
+          <properties class="practice.silverPark.chapter8.inheritance.customer.Customer">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
