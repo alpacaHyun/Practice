@@ -42,9 +42,14 @@ public class MemberArrayList {
     }
 
     public void showAll() {
-        for (Member member : arrayList) {
+        Iterator<Member> iterator = arrayList.iterator();
+        while (iterator.hasNext()){
+            Member member = iterator.next();
             System.out.println(member);
         }
+//        for (Member member : arrayList) {
+//            System.out.println(member);
+//        }
         System.out.println();
 //        System.out.println(arrayList);
     }
