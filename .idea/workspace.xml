@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : silver 강의 Iterator&#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/hashset/HashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/hashset/MemberHashSetTest.java" afterDir="false" />
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : silver 강의 hashSet&#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/hashmap/MemberHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/hashmap/MemberHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/treemap/MemberTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/treemap/MemberTreeMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/treeset/ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/treeset/MemberTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/treeset/MemberTreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/treeset/TreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/innerclass/InnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/innerclass/LocalInnerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/hashset/MemberHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/hashset/MemberHashSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +59,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="inflearn.silverPark.chapter12.collection.treeset" />
       <recent name="inflearn.silverPark.chapter12.generics.usegenerics" />
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MemberHashSetTest">
-    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.hashset.HashSetTest" />
+  <component name="RunManager" selected="Application.InnerTest">
+    <configuration name="ComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.treeset.ComparatorTest" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.hashset.*" />
+          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.treeset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.arraylist.MemberArrayListTest" />
+    <configuration name="InnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.innerclass.InnerTest" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.arraylist.*" />
+          <option name="PATTERN" value="inflearn.silverPark.chapter12.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberHashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.hashset.MemberHashSetTest" />
+    <configuration name="MemberHashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.hashmap.MemberHashMapTest" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.hashset.*" />
+          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.arraylist.QueueTest" />
+    <configuration name="MemberTreeMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.treemap.MemberTreeMapTest" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.arraylist.*" />
+          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.treemap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.arraylist.QueueTest" />
+    <configuration name="MemberTreeSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.collection.treeset.MemberTreeSetTest" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.arraylist.*" />
+          <option name="PATTERN" value="inflearn.silverPark.chapter12.collection.treeset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MemberHashSetTest" />
-        <item itemvalue="Application.HashSetTest" />
-        <item itemvalue="Application.MemberArrayListTest" />
-        <item itemvalue="Application.QueueTest (1)" />
-        <item itemvalue="Application.QueueTest" />
+        <item itemvalue="Application.InnerTest" />
+        <item itemvalue="Application.MemberTreeMapTest" />
+        <item itemvalue="Application.MemberHashMapTest" />
+        <item itemvalue="Application.ComparatorTest" />
+        <item itemvalue="Application.MemberTreeSetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +238,11 @@
       <workItem from="1669176653130" duration="3337000" />
       <workItem from="1669191405180" duration="4409000" />
       <workItem from="1669196661453" duration="4000" />
-      <workItem from="1669215769561" duration="2872000" />
+      <workItem from="1669215769561" duration="3533000" />
+      <workItem from="1669252385489" duration="1555000" />
+      <workItem from="1669279171762" duration="689000" />
+      <workItem from="1669287027219" duration="5179000" />
+      <workItem from="1669302686645" duration="5362000" />
     </task>
     <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
       <created>1667705529770</created>
@@ -554,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669217328842</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="type : silver 강의 hashSet&#10;&#10;body :">
+      <created>1669218686653</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1669218686653</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +591,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="type : feat 브&#10;&#10;body :" />
     <MESSAGE value="type : feat ..&#10;&#10;body :" />
     <MESSAGE value="type : feat Stack, Queue example&#10;&#10;body :" />
     <MESSAGE value="type : feat 상속과 코드 재사용의 차이 설명 &#10;&#10;body :" />
@@ -597,7 +615,8 @@
     <MESSAGE value="type : refactor&#10;&#10;body :" />
     <MESSAGE value="type : silver 강의 &#10;&#10;body :" />
     <MESSAGE value="type : silver 강의 Iterator&#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : silver 강의 Iterator&#10;&#10;body :" />
+    <MESSAGE value="type : silver 강의 hashSet&#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : silver 강의 hashSet&#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -696,6 +715,11 @@
           <url>file://$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/arraylist/MemberArrayListTest.java</url>
           <line>21</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/inflearn/silverPark/chapter12/collection/treemap/MemberTreeMapTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/inflearn/silverPark/chapter5/classpart/StudentTest.java</url>

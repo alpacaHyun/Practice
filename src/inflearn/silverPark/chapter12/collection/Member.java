@@ -1,8 +1,11 @@
 package inflearn.silverPark.chapter12.collection;
 
 import java.util.Collection;
+import java.util.Comparator;
 
-public class Member {
+public class Member implements Comparable<Member>, Comparator<Member> {
+    // Comparable or Comparator 둘 중 하나만 (Comparator 는 기본생성자 만들어주어야함)
+    public Member (){}
 
     private int memberId;
     private String memberName;
@@ -38,6 +41,11 @@ public class Member {
     }
 
     @Override
+    public int compare(Member member1, Member member2) {
+        return (member1.memberId - member2.memberId);
+    }
+
+    @Override
     public boolean equals(Object obj){
         if(obj instanceof Member){
             Member member = (Member) obj;
@@ -49,4 +57,13 @@ public class Member {
         }
         return false;
     }
+
+    @Override
+    public int compareTo(Member member) {
+
+//        return (this.memberId - member.memberId);   // 이렇게 하면 멤버 아이디 오름차순으로 정렬된다. (this 는 나, member 는 매개변수)
+//    return (this.memberName.compareTo(member.memberName)); // 이름 오름차순
+    return (this.memberName.compareTo(member.memberName)) * (-1); // 이름 내림차순
+    }
+
 }
