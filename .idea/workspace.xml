@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : silver 강의 &#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/lambda/LambdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/stream/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inflearn/silverPark/chapter12/stream/IntArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/copyobject/Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/copyobject/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/copyobject/Ex3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,19 +36,19 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="inflearn.silverPark.chapter12.collection.treeset" />
@@ -56,13 +56,26 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListTest">
+  <component name="RunManager" selected="Application.Ex">
     <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.stream.ArrayListTest" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="inflearn.silverPark.chapter12.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.copyobject.Ex" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.copyobject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,19 +109,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.lambda.TestMyNumber" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inflearn.silverPark.chapter12.lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestStringConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.lambda.TestStringConcat" />
       <module name="Practie" />
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex" />
         <item itemvalue="Application.ArrayListTest" />
         <item itemvalue="Application.IntArrayTest" />
         <item itemvalue="Application.LambdaTest" />
         <item itemvalue="Application.TestStringConcat" />
-        <item itemvalue="Application.TestMyNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -236,13 +236,10 @@
       <workItem from="1669287027219" duration="5179000" />
       <workItem from="1669302686645" duration="14110000" />
       <workItem from="1669694063656" duration="3904000" />
-    </task>
-    <task id="LOCAL-00001" summary="type : feat 백준 문제풀이&#10;&#10;body : Bronze5">
-      <created>1667705529770</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1667705529770</updated>
+      <workItem from="1669706744470" duration="16000" />
+      <workItem from="1669798186966" duration="289000" />
+      <workItem from="1669804203731" duration="618000" />
+      <workItem from="1669898567431" duration="621000" />
     </task>
     <task id="LOCAL-00002" summary="type : feat &#10;&#10;body : Bronze5">
       <created>1667705918565</created>
@@ -580,7 +577,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669412353299</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="type : silver 강의 &#10;&#10;body :">
+      <created>1669706753597</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1669706753598</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
