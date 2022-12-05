@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : 인스턴스 생성과 메서드 호출 연습&#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Circleex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/paskdlfj/BrdigeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/paskdlfj/BridgeGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/paskdlfj/Controller.java" afterDir="false" />
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : 코드스쿼드 마스터즈 연습 &#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/CircleOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/copyobject/Ex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/copyobject/Ex2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/copyobject/Ex3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,14 +233,7 @@
       <workItem from="1670062510743" duration="525000" />
       <workItem from="1670211130066" duration="55000" />
       <workItem from="1670223262180" duration="346000" />
-      <workItem from="1670226133895" duration="6407000" />
-    </task>
-    <task id="LOCAL-00003" summary="type : feat 브론즈4&#10;&#10;body :">
-      <created>1667824406891</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1667824406891</updated>
+      <workItem from="1670226133895" duration="7029000" />
     </task>
     <task id="LOCAL-00004" summary="type : &#10;&#10;body :">
       <created>1667824420041</created>
@@ -584,7 +571,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669899202667</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="type : 코드스쿼드 마스터즈 연습 &#10;&#10;body :">
+      <created>1670232565423</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1670232565424</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,7 +596,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="type : feat Stack, Queue example&#10;&#10;body :" />
     <MESSAGE value="type : feat 상속과 코드 재사용의 차이 설명 &#10;&#10;body :" />
     <MESSAGE value="type : feat&#10;&#10;body :" />
     <MESSAGE value="type : feat 브론즈 3 문제풀이&#10;&#10;body :" />
@@ -627,7 +620,8 @@
     <MESSAGE value="type : silver 강의 hashSet&#10;&#10;body :" />
     <MESSAGE value="type : silver 강의 &#10;&#10;body :" />
     <MESSAGE value="type : 인스턴스 생성과 메서드 호출 연습&#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : 인스턴스 생성과 메서드 호출 연습&#10;&#10;body :" />
+    <MESSAGE value="type : 코드스쿼드 마스터즈 연습 &#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : 코드스쿼드 마스터즈 연습 &#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -734,22 +728,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Circle.java</url>
-          <line>10</line>
+          <line>12</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Circle.java</url>
-          <line>11</line>
+          <line>13</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Circle.java</url>
-          <line>13</line>
+          <line>15</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Circle.java</url>
-          <line>15</line>
+          <line>24</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">

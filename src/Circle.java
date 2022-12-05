@@ -6,14 +6,23 @@ public class Circle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         StringBuilder circle = new StringBuilder();
+        StringBuilder circleOdd = new StringBuilder();
         Circleex circleex = new Circleex();
+        CircleOdd circleOdd1 = new CircleOdd();
 
-        System.out.println("원의 크기는?");
+        System.out.println("짝수 원의 크기는?");
         int circleSize = sc.nextInt();
 
         circle = circleex.makeCircleEven(circleSize);
 
-        System.out.println(circle);
+        System.out.println();
+
+//        System.out.println("홀수 원의 크기는?");
+//        int circleSize2 = sc.nextInt();
+//        circleOdd = circleOdd1.
+
+
+//        System.out.println(circle);
 
     }
 //
