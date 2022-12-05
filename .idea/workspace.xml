@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : silver 강의 &#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/study/copyobject/Ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/copyobject/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/study/copyobject/Ex3.java" afterDir="false" />
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : 인스턴스 생성과 메서드 호출 연습&#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circleex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paskdlfj/BrdigeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paskdlfj/BridgeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paskdlfj/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/copyobject/Ex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/copyobject/Ex2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/copyobject/Ex3.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +61,43 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex">
-    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.stream.ArrayListTest" />
+  <component name="RunManager" selected="Application.Circle">
+    <configuration name="BrdigeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="paskdlfj.BrdigeMain" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inflearn.silverPark.chapter12.stream.*" />
+          <option name="PATTERN" value="paskdlfj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckMehtod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.CheckMehtod" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Circle" />
+      <module name="Practie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circleex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Circleex" />
+      <module name="Practie" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,52 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.stream.IntArrayTest" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inflearn.silverPark.chapter12.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.lambda.LambdaTest" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inflearn.silverPark.chapter12.lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestStringConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.lambda.TestStringConcat" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inflearn.silverPark.chapter12.lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.Circleex" />
+        <item itemvalue="Application.BrdigeMain" />
+        <item itemvalue="Application.CheckMehtod" />
         <item itemvalue="Application.Ex" />
-        <item itemvalue="Application.ArrayListTest" />
-        <item itemvalue="Application.IntArrayTest" />
-        <item itemvalue="Application.LambdaTest" />
-        <item itemvalue="Application.TestStringConcat" />
       </list>
     </recent_temporary>
   </component>
@@ -239,14 +232,14 @@
       <workItem from="1669706744470" duration="16000" />
       <workItem from="1669798186966" duration="289000" />
       <workItem from="1669804203731" duration="618000" />
-      <workItem from="1669898567431" duration="621000" />
-    </task>
-    <task id="LOCAL-00002" summary="type : feat &#10;&#10;body : Bronze5">
-      <created>1667705918565</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1667705918565</updated>
+      <workItem from="1669898567431" duration="743000" />
+      <workItem from="1669952790636" duration="185000" />
+      <workItem from="1670060921179" duration="184000" />
+      <workItem from="1670062450780" duration="16000" />
+      <workItem from="1670062510743" duration="525000" />
+      <workItem from="1670211130066" duration="55000" />
+      <workItem from="1670223262180" duration="346000" />
+      <workItem from="1670226133895" duration="6407000" />
     </task>
     <task id="LOCAL-00003" summary="type : feat 브론즈4&#10;&#10;body :">
       <created>1667824406891</created>
@@ -584,7 +577,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669706753598</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="type : 인스턴스 생성과 메서드 호출 연습&#10;&#10;body :">
+      <created>1669899202666</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1669899202667</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,7 +602,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="type : feat ..&#10;&#10;body :" />
     <MESSAGE value="type : feat Stack, Queue example&#10;&#10;body :" />
     <MESSAGE value="type : feat 상속과 코드 재사용의 차이 설명 &#10;&#10;body :" />
     <MESSAGE value="type : feat&#10;&#10;body :" />
@@ -627,7 +626,8 @@
     <MESSAGE value="type : silver 강의 Iterator&#10;&#10;body :" />
     <MESSAGE value="type : silver 강의 hashSet&#10;&#10;body :" />
     <MESSAGE value="type : silver 강의 &#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : silver 강의 &#10;&#10;body :" />
+    <MESSAGE value="type : 인스턴스 생성과 메서드 호출 연습&#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : 인스턴스 생성과 메서드 호출 연습&#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -732,6 +732,26 @@
           <line>15</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Circle.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Circle.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Circle.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Circle.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/inflearn/silverPark/chapter5/classpart/StudentTest.java</url>
           <line>3</line>
@@ -750,6 +770,10 @@
           </properties>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="26" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
