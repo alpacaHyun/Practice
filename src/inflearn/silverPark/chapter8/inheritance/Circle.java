@@ -1,8 +1,8 @@
 package inflearn.silverPark.chapter8.inheritance;
 
 public class Circle {
-    // 여기서 Circle 과 Point 는 x,y를 다 가지고 있다고 해서 Circle 이 Point 를 상속받지 않는다.
-    // Circle 과 Point 는 아무 관계가 아니고 활용만 하고 싶을 땐
+    // 여기서 codesquadtest.mission1.Circle 과 Point 는 x,y를 다 가지고 있다고 해서 codesquadtest.mission1.Circle 이 Point 를 상속받지 않는다.
+    // codesquadtest.mission1.Circle 과 Point 는 아무 관계가 아니고 활용만 하고 싶을 땐
 //    private int x;
 //    private int y;
 

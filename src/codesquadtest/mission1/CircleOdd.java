@@ -1,12 +1,17 @@
+package codesquadtest.mission1;
+
 public class CircleOdd {
 
     // 연습용 코드
 
 
     public StringBuilder makeCircle(int circleSize){
-        StringBuilder oddCircle = new StringBuilder();
 
-        int size = circleSize / 2;
+        StringBuilder oddCircle = new StringBuilder();
+        StringBuilder oddCircleUp = new StringBuilder();
+        StringBuilder oddCircleDown = new StringBuilder();
+
+        int size = (circleSize / 2) + 1;
 
         int index = size - 1;
         int index2 = 0;
@@ -16,43 +21,46 @@ public class CircleOdd {
         for (int j = 0; j < size; j++) {
             for (int i = 0; i < size; i++) {
                 if (index == i) {
-                    oddCircle.append("-");
+                    oddCircleUp.append("-");
                 } else {
-                    oddCircle.append(" ");
+                    oddCircleUp.append(" ");
                 }
             }
             for (int i = 0; i < size; i++) {
                 if (index2 == i) {
-                    oddCircle.append("-");
+                    oddCircleUp.append("-");
                 } else {
-                    oddCircle.append(" ");
+                    oddCircleUp.append(" ");
                 }
             }
             index--;
             index2++;
-            oddCircle.append("\n");
+            oddCircleUp.append("\n");
         }
 
         for (int j = 0; j < size; j++) {
             for (int i = 0; i < size; i++) {
                 if (index4 == i) {
-                    oddCircle.append("-");
+                    oddCircleDown.append("-");
                 } else {
-                    oddCircle.append(" ");
+                    oddCircleDown.append(" ");
                 }
             }
             for (int i = 0; i < size; i++) {
                 if (index3 == i) {
-                    oddCircle.append("-");
+                    oddCircleDown.append("-");
                 } else {
-                    oddCircle.append(" ");
+                    oddCircleDown.append(" ");
                 }
+            }
+            oddCircleDown.append("\n");
+            if(index4 == 0) {
+                oddCircleDown.delete(0,oddCircleDown.length());
             }
             index3--;
             index4++;
-            oddCircle.append("\n");
         }
-
+        oddCircle.append(oddCircleUp).append(oddCircleDown);
         return oddCircle;
     }
 

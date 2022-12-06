@@ -1,3 +1,5 @@
+package codesquadtest.mission1;
+
 import java.util.Scanner;
 
 public class Circle {
@@ -14,15 +16,16 @@ public class Circle {
         int circleSize = sc.nextInt();
 
         circle = circleex.makeCircleEven(circleSize);
+        System.out.println(circle);
 
         System.out.println();
 
-//        System.out.println("홀수 원의 크기는?");
-//        int circleSize2 = sc.nextInt();
-//        circleOdd = circleOdd1.
+        System.out.println("홀수 원의 크기는?");
+        int circleSize2 = sc.nextInt();
+        circleOdd = circleOdd1.makeCircle(circleSize2);
 
 
-//        System.out.println(circle);
+        System.out.println(circleOdd);
 
     }
 //
