@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : 코드스쿼드 마스터즈 연습 &#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/asdf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesquadtest/bfs/BFSEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesquadtest/mission1/circle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesquadtest/mission1/circle/MakeCircle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codesquadtest/mission2/ArrayEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codesquadtest/mission2/ArrayEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/asdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/asdf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +57,26 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.asdf">
+  <component name="RunManager" selected="Application.BFSEx">
     <configuration name="ArrayEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codesquadtest.mission2.ArrayEx" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="codesquadtest.mission2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BFSEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codesquadtest.bfs.BFSEx" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codesquadtest.bfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,9 +91,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circleex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codesquadtest.mission1.Circleex" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codesquadtest.mission1.circle.Main" />
       <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codesquadtest.mission1.circle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,20 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="circlkjasdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codesquadtest.mission1.circlkjasdf" />
-      <module name="Practie" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BFSEx" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.asdf" />
         <item itemvalue="Application.ArrayEx" />
         <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.circlkjasdf" />
-        <item itemvalue="Application.Circleex" />
       </list>
     </recent_temporary>
   </component>
@@ -231,14 +245,11 @@
       <workItem from="1670295774466" duration="23000" />
       <workItem from="1670299996895" duration="1495000" />
       <workItem from="1670309963333" duration="58000" />
-      <workItem from="1670310261263" duration="3246000" />
-    </task>
-    <task id="LOCAL-00006" summary="type : feat 깊은 복사 , 얕은 복사 &#10;&#10;body :">
-      <created>1667917984702</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1667917984702</updated>
+      <workItem from="1670310261263" duration="4249000" />
+      <workItem from="1670320302530" duration="47000" />
+      <workItem from="1670320393506" duration="498000" />
+      <workItem from="1670320925605" duration="7361000" />
+      <workItem from="1670335828137" duration="1689000" />
     </task>
     <task id="LOCAL-00007" summary="type : feat 브론즈 3&#10;&#10;body :">
       <created>1668037278993</created>
@@ -576,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670289910126</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="type : 코드스쿼드 마스터즈 연습 &#10;&#10;body :">
+      <created>1670318348095</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1670318348095</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -771,12 +789,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/asdf.java</url>
-          <line>18</line>
+          <line>19</line>
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/asdf.java</url>
-          <line>34</line>
+          <line>43</line>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
