@@ -3,7 +3,7 @@ package codesquadtest.bfs;
 import java.util.Scanner;
 
 public class BFSEx {
-
+//DFS 인데 BFS 로 이름 잘못적음
     static int answer;
     static int n;
     static int arr[][];
