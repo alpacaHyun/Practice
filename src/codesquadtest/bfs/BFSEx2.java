@@ -43,13 +43,13 @@ public class BFSEx2 {
                     int nx = xx + dx[j];
                     int ny = yy + dy[j];
 
-                    if(nx >= 0 && nx <= 6 && ny >= 0 && ny <  6 && arr[nx]][ny] == 0) {
-                        if(ck[nx][ny] == 0) {
-                            ck[nx][ny] = 1;
-                            Point pp = new Point(nx, ny);
-                            queue.add(pp);
-                        }
-                    }
+//                    if(nx >= 0 && nx <= 6 && ny >= 0 && ny <  6 && arr[nx]][ny] == 0) {
+//                        if(ck[nx][ny] == 0) {
+//                            ck[nx][ny] = 1;
+//                            Point pp = new Point(nx, ny);
+//                            queue.add(pp);
+//                        }
+//                    }
 
                 }
             }

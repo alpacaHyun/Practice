@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : 코드스쿼드 마스터즈 연습 &#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/codesquadtest/DFS/DFSEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codesquadtest/bfs/BFSEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesquadtest/coordinate/CheckSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesquadtest/coordinate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesquadtest/coordinate/MakeRevolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codesquadtest/coordinate/MakeStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codesquadtest/bfs/BFSEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codesquadtest/bfs/BFSEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codesquadtest/bfs/BFSEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codesquadtest/bfs/BFSEx2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,20 +58,7 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BFSEx">
-    <configuration name="ArrayEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codesquadtest.mission2.ArrayEx" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codesquadtest.mission2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.codesquadtest.coordinate.Main">
     <configuration name="BFSEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codesquadtest.bfs.BFSEx" />
       <module name="Practie" />
@@ -83,9 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codesquadtest.mission1.Circle" />
+    <configuration name="CheckSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codesquadtest.coordinate.CheckSize" />
       <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codesquadtest.coordinate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="codesquadtest.coordinate.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codesquadtest.coordinate.Main" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codesquadtest.coordinate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.codesquadtest.coordinate.Main" />
+        <item itemvalue="Application.CheckSize" />
         <item itemvalue="Application.BFSEx" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.asdf" />
-        <item itemvalue="Application.ArrayEx" />
-        <item itemvalue="Application.Circle" />
       </list>
     </recent_temporary>
   </component>
@@ -249,14 +257,8 @@
       <workItem from="1670320393506" duration="498000" />
       <workItem from="1670320925605" duration="7361000" />
       <workItem from="1670335828137" duration="3953000" />
-      <workItem from="1670348321255" duration="1019000" />
-    </task>
-    <task id="LOCAL-00008" summary="type : feat 자바의 정석&#10;&#10;body :">
-      <created>1668037297509</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1668037297509</updated>
+      <workItem from="1670348321255" duration="1032000" />
+      <workItem from="1670386088990" duration="3983000" />
     </task>
     <task id="LOCAL-00009" summary="type : feat&#10;&#10;body :">
       <created>1668037305626</created>
@@ -594,7 +596,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670337733331</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="type : 코드스쿼드 마스터즈 연습 &#10;&#10;body :">
+      <created>1670349569794</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1670349569795</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
