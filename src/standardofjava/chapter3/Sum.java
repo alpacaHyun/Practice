@@ -7,7 +7,7 @@ public class Sum {
         int i = 0;
         int j = 0;
 
-        System.out.println(i++);
-        System.out.println(++j);
+        System.out.println(i++);   // 0 -> sysout 후 ++이 되기 때문이다.
+        System.out.println(++j);   // 1 -> sysout 전 ++이 되기 때문이다.
     }
 }
