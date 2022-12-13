@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : 자바의 정석&#10;&#10;body :" />
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : 자바의 정석 &#10;&#10;body :" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,13 +51,13 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StarPrint">
-    <configuration name="BFSEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codesquadtest.bfs.BFSEx" />
+  <component name="RunManager" selected="Application.Continue">
+    <configuration name="CheckSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codesquadtest.coordinate.CheckSize" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codesquadtest.bfs.*" />
+          <option name="PATTERN" value="codesquadtest.coordinate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codesquadtest.coordinate.CheckSize" />
+    <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter4.Continue" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codesquadtest.coordinate.*" />
+          <option name="PATTERN" value="standardofjava.chapter4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Continue" />
         <item itemvalue="Application.StarPrint" />
         <item itemvalue="Application.Sum" />
         <item itemvalue="Application.codesquadtest.coordinate.Main" />
         <item itemvalue="Application.CheckSize" />
-        <item itemvalue="Application.BFSEx" />
       </list>
     </recent_temporary>
   </component>
@@ -261,20 +261,7 @@
       <workItem from="1670656213218" duration="26000" />
       <workItem from="1670656241721" duration="1000" />
       <workItem from="1670833340497" duration="625000" />
-    </task>
-    <task id="LOCAL-00012" summary="type : feat 브론즈3 &#10;&#10;body :">
-      <created>1668128102683</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1668128102683</updated>
-    </task>
-    <task id="LOCAL-00013" summary="type : feat &#10;&#10;body :">
-      <created>1668128124099</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1668128124099</updated>
+      <workItem from="1670895651506" duration="176000" />
     </task>
     <task id="LOCAL-00014" summary="type : feat ..&#10;&#10;body :">
       <created>1668235519526</created>
@@ -605,7 +592,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670833481108</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="type : 자바의 정석 &#10;&#10;body :">
+      <created>1670895756318</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1670895756318</updated>
+    </task>
+    <task id="LOCAL-00062" summary="type : 자바의 정석 &#10;&#10;body :">
+      <created>1670895823014</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1670895823014</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +624,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="type : feat 브론즈 3 문제풀이&#10;&#10;body :" />
     <MESSAGE value="type : feat 상속 &#10;&#10;body :" />
     <MESSAGE value="type : feat 브론즈3 별찍기&#10;&#10;body :" />
     <MESSAGE value="type : feat Overriding&#10;&#10;body :" />
@@ -648,7 +648,8 @@
     <MESSAGE value="type : 코드스쿼드 마스터즈 연습 &#10;&#10;body :" />
     <MESSAGE value="type : &#10;&#10;body :" />
     <MESSAGE value="type : 자바의 정석&#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="type : 자바의 정석&#10;&#10;body :" />
+    <MESSAGE value="type : 자바의 정석 &#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="type : 자바의 정석 &#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
