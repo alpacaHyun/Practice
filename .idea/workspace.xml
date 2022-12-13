@@ -51,13 +51,26 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionEx">
+  <component name="RunManager" selected="Application.Ex2">
     <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="standardofjava.chapter4.Continue" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="standardofjava.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter8.Ex2" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="standardofjava.chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="codesquadtest.coordinate.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codesquadtest.coordinate.Main" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codesquadtest.coordinate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex2" />
         <item itemvalue="Application.ExceptionEx" />
         <item itemvalue="Application.Continue" />
         <item itemvalue="Application.StarPrint" />
         <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.codesquadtest.coordinate.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -263,13 +263,7 @@
       <workItem from="1670833340497" duration="625000" />
       <workItem from="1670895651506" duration="176000" />
       <workItem from="1670896275626" duration="95000" />
-    </task>
-    <task id="LOCAL-00015" summary="type : feat Stack, Queue example&#10;&#10;body :">
-      <created>1668328587181</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1668328587181</updated>
+      <workItem from="1670905577529" duration="175000" />
     </task>
     <task id="LOCAL-00016" summary="type : feat Stack, Queue example&#10;&#10;body :">
       <created>1668333848672</created>
@@ -607,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670896365484</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="type : 자바의 정석 &#10;&#10;body :">
+      <created>1670905747035</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1670905747035</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
