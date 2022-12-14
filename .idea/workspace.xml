@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : 자바의 정석 &#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex20_11_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,7 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex20_stackQueue_11_3">
+  <component name="RunManager" selected="Application.Ex20_11_4">
     <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="standardofjava.chapter4.Continue" />
       <module name="Practie" />
@@ -73,6 +74,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="standardofjava.chapter8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex20_11_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter11.Ex20_11_4" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="standardofjava.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter4.StarPrint" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="standardofjava.chapter4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex20_11_4" />
         <item itemvalue="Application.Ex20_stackQueue_11_3" />
         <item itemvalue="Application.Ex2" />
         <item itemvalue="Application.ExceptionEx" />
         <item itemvalue="Application.Continue" />
-        <item itemvalue="Application.StarPrint" />
       </list>
     </recent_temporary>
   </component>
@@ -267,14 +268,7 @@
       <workItem from="1670896275626" duration="95000" />
       <workItem from="1670905577529" duration="175000" />
       <workItem from="1670906063226" duration="273000" />
-      <workItem from="1670999724010" duration="624000" />
-    </task>
-    <task id="LOCAL-00017" summary="type : feat Stack, Queue example&#10;&#10;body :">
-      <created>1668380581650</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1668380581650</updated>
+      <workItem from="1670999724010" duration="1251000" />
     </task>
     <task id="LOCAL-00018" summary="type : feat Stack, Queue example&#10;&#10;body :">
       <created>1668380585780</created>
@@ -612,7 +606,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670906280982</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="type : 자바의 정석 &#10;&#10;body :">
+      <created>1671004999789</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1671004999789</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
