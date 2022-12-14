@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : 자바의 정석 &#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex11_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex11_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex11_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,20 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex11_7">
+  <component name="RunManager" selected="Application.Ex11_10">
+    <configuration name="Ex11_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter11.Ex11_10" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="standardofjava.chapter11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex11_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="standardofjava.chapter11.Ex11_7" />
       <module name="Practie" />
@@ -67,21 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter8.Ex2" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="standardofjava.chapter8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex20_11_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter11.Ex20_11_4" />
+    <configuration name="Ex11_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter11.Ex11_9" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex20_stackQueue_11_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter11.Ex20_stackQueue_11_3" />
+    <configuration name="Ex20_11_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter11.Ex20_11_4" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11_10" />
+        <item itemvalue="Application.Ex11_9" />
         <item itemvalue="Application.Ex11_7" />
         <item itemvalue="Application.Ex9_11_5" />
         <item itemvalue="Application.Ex20_11_4" />
-        <item itemvalue="Application.Ex20_stackQueue_11_3" />
-        <item itemvalue="Application.Ex2" />
       </list>
     </recent_temporary>
   </component>
@@ -268,14 +270,7 @@
       <workItem from="1670905577529" duration="175000" />
       <workItem from="1670906063226" duration="273000" />
       <workItem from="1670999724010" duration="1396000" />
-      <workItem from="1671007297716" duration="916000" />
-    </task>
-    <task id="LOCAL-00020" summary="type : feat&#10;&#10;body :">
-      <created>1668405326291</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1668405326291</updated>
+      <workItem from="1671007297716" duration="1977000" />
     </task>
     <task id="LOCAL-00021" summary="type : feat 브론즈 3 문제풀이&#10;&#10;body :">
       <created>1668405335673</created>
@@ -613,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671007396241</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="type : 자바의 정석 &#10;&#10;body :">
+      <created>1671010041220</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1671010041220</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
