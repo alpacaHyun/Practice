@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : 자바의 정석 &#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex11_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex11_12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex11_11 (2)">
+  <component name="RunManager" selected="Application.Ex11_12">
     <configuration name="Ex11_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="standardofjava.chapter11.Ex11_10" />
       <module name="Practie" />
@@ -106,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex11_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter11.Ex11_9" />
+    <configuration name="Ex11_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter11.Ex11_12" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11_12" />
         <item itemvalue="Application.Ex11_11 (2)" />
         <item itemvalue="Application.Ex11_11 (1)" />
         <item itemvalue="Application.Ex11_11" />
         <item itemvalue="Application.Ex11_10" />
-        <item itemvalue="Application.Ex11_9" />
       </list>
     </recent_temporary>
   </component>
@@ -268,14 +268,7 @@
       <workItem from="1670905577529" duration="175000" />
       <workItem from="1670906063226" duration="273000" />
       <workItem from="1670999724010" duration="1396000" />
-      <workItem from="1671007297716" duration="2280000" />
-    </task>
-    <task id="LOCAL-00022" summary="type : feat 상속 &#10;&#10;body :">
-      <created>1668411863879</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1668411863879</updated>
+      <workItem from="1671007297716" duration="2832000" />
     </task>
     <task id="LOCAL-00023" summary="type : feat 상속 &#10;&#10;body :">
       <created>1668412793527</created>
@@ -613,7 +606,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671011265815</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="type : 자바의 정석 &#10;&#10;body :">
+      <created>1671011620798</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1671011620798</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
