@@ -3,6 +3,7 @@ package standardofjava.chapter11;
 import static java.util.Collections.*;
 
 import java.util.ArrayList;
+import java.util.Enumeration;
 import java.util.List;
 
 public class Ex11_19 {
@@ -46,6 +47,14 @@ public class Ex11_19 {
 
         copy(list, newList);
         System.out.println(list);
+
+        replaceAll(list, 2, 1); // 2를 1로 변경
+        System.out.println(list);
+
+        Enumeration e = enumeration(list);
+        ArrayList list2 = list(e);
+
+        System.out.println(list2);
 
     }
 }

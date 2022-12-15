@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : 자바의 정석 &#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex11_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex11_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex11_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex11_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/standardofjava/chapter11/Ex11_19.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,14 +270,7 @@
       <workItem from="1670999724010" duration="1396000" />
       <workItem from="1671007297716" duration="3717000" />
       <workItem from="1671069278443" duration="18000" />
-      <workItem from="1671079665582" duration="1976000" />
-    </task>
-    <task id="LOCAL-00026" summary="type : feat polymorphism&#10;&#10;body :">
-      <created>1668498965766</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1668498965766</updated>
+      <workItem from="1671079665582" duration="2300000" />
     </task>
     <task id="LOCAL-00027" summary="type : feat 상속&#10;&#10;body :">
       <created>1668498974776</created>
@@ -618,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671079755673</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="type : 자바의 정석 &#10;&#10;body :">
+      <created>1671085367063</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1671085367063</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
