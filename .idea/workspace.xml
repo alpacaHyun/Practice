@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="type : 자바의 정석 &#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter12/Enum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +54,13 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex12_1">
-    <configuration name="Ex11_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter11.Ex11_13" />
+  <component name="RunManager" selected="Application.Enum">
+    <configuration name="Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter12.Enum" />
       <module name="Practie" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="standardofjava.chapter11.*" />
+          <option name="PATTERN" value="standardofjava.chapter12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Enum" />
         <item itemvalue="Application.Ex12_1" />
         <item itemvalue="Application.Ex11_19" />
         <item itemvalue="Application.Ex11_15" />
         <item itemvalue="Application.Ex11_14" />
-        <item itemvalue="Application.Ex11_13" />
       </list>
     </recent_temporary>
   </component>
@@ -271,13 +272,8 @@
       <workItem from="1671007297716" duration="3717000" />
       <workItem from="1671069278443" duration="18000" />
       <workItem from="1671079665582" duration="5063000" />
-    </task>
-    <task id="LOCAL-00029" summary="type : feat Silver 강의&#10;&#10;body :">
-      <created>1668556649529</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1668556649529</updated>
+      <workItem from="1671258936096" duration="17000" />
+      <workItem from="1671347526894" duration="49000" />
     </task>
     <task id="LOCAL-00030" summary="type : feat 자바의 정석 상속&#10;&#10;body :">
       <created>1668581612322</created>
@@ -615,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671094107349</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="type : 자바의 정석 &#10;&#10;body :">
+      <created>1671258948262</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1671258948262</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
