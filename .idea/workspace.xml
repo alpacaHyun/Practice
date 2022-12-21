@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="feat : silver 강의 &#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter14/Ex14_3.java" afterDir="false" />
+    <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="feat : 자바의 정석&#10;&#10;body :">
+      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter14/Ex14_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +54,7 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex14_3">
-    <configuration name="Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter12.Enum" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="standardofjava.chapter12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex14_4">
     <configuration name="Ex14_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="standardofjava.chapter14.Ex14_1" />
       <module name="Practie" />
@@ -106,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex14_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter14.Ex14_4" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="standardofjava.chapter14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreeDPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inflearn.silverPark.chapter12.generics.againgenerics.ThreeDPrinterTest" />
       <module name="Practie" />
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex14_4" />
         <item itemvalue="Application.Ex14_3" />
         <item itemvalue="Application.ThreeDPrinterTest" />
         <item itemvalue="Application.Ex14_2" />
         <item itemvalue="Application.Ex14_1" />
-        <item itemvalue="Application.Enum" />
       </list>
     </recent_temporary>
   </component>
@@ -275,14 +276,8 @@
       <workItem from="1671347526894" duration="49000" />
       <workItem from="1671347631725" duration="884000" />
       <workItem from="1671433939198" duration="122000" />
-      <workItem from="1671523134180" duration="4690000" />
-    </task>
-    <task id="LOCAL-00033" summary="type : feat 자바의 정석 static import&#10;&#10;body :">
-      <created>1668588968766</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1668588968766</updated>
+      <workItem from="1671523134180" duration="4893000" />
+      <workItem from="1671594859223" duration="302000" />
     </task>
     <task id="LOCAL-00034" summary="type : feat 자바의 정석 참조변수 형변환&#10;&#10;body :">
       <created>1668639046997</created>
@@ -620,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671528600391</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="feat : 자바의 정석&#10;&#10;body :">
+      <created>1671529515056</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1671529515057</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -638,7 +640,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="type : feat 브론즈3 별찍기&#10;&#10;body :" />
     <MESSAGE value="type : feat Overriding&#10;&#10;body :" />
     <MESSAGE value="type : feat polymorphism&#10;&#10;body :" />
     <MESSAGE value="type : feat 상속&#10;&#10;body :" />
@@ -663,7 +664,8 @@
     <MESSAGE value="type : 자바의 정석&#10;&#10;body :" />
     <MESSAGE value="type : 자바의 정석 &#10;&#10;body :" />
     <MESSAGE value="feat : silver 강의 &#10;&#10;body :" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : silver 강의 &#10;&#10;body :" />
+    <MESSAGE value="feat : 자바의 정석&#10;&#10;body :" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : 자바의 정석&#10;&#10;body :" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
