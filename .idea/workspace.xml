@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="381b704a-0deb-4104-a50c-a21b249f0089" name="Changes" comment="feat : 자바의 정석&#10;&#10;body :">
-      <change afterPath="$PROJECT_DIR$/src/standardofjava/chapter14/Ex14_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,20 +53,7 @@
       <recent name="practice.silverPark.chapter8.witharraylist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex14_8">
-    <configuration name="Ex12_3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="standardofjava.chapter12.Ex12_3" />
-      <module name="Practie" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="standardofjava.chapter12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Market">
     <configuration name="Ex12_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="standardofjava.chapter12.Ex12_3" />
       <module name="Practie" />
@@ -107,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Market" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.polymorphism.Market" />
+      <module name="Practie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="asdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="asdf" />
       <module name="Practie" />
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Market" />
         <item itemvalue="Application.Ex14_8" />
         <item itemvalue="Application.Ex14_7" />
         <item itemvalue="Application.asdf" />
         <item itemvalue="Application.Ex12_3" />
-        <item itemvalue="Application.Ex12_3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -272,14 +271,8 @@
       <workItem from="1671433939198" duration="122000" />
       <workItem from="1671523134180" duration="4893000" />
       <workItem from="1671594859223" duration="4442000" />
-      <workItem from="1671632122697" duration="4275000" />
-    </task>
-    <task id="LOCAL-00037" summary="type : feat silver 강의&#10;&#10;body :">
-      <created>1668674942794</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1668674942794</updated>
+      <workItem from="1671632122697" duration="5151000" />
+      <workItem from="1671706555635" duration="612000" />
     </task>
     <task id="LOCAL-00038" summary="type : feat silver 강의&#10;&#10;body :">
       <created>1668688877858</created>
@@ -617,7 +610,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671666123688</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="feat : 자바의 정석&#10;&#10;body :">
+      <created>1671668072960</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1671668072960</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
